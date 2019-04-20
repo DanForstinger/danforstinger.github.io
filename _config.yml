@@ -20,7 +20,7 @@ title: "dan forstinger"
 description: "a programmer, designer, and game-lover in Toronto, Canada"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: "https:/danforstinger.github.io"
-logo: "/img/pixel-dan.png"
+logo: "/assets/img/pixel-dan.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
