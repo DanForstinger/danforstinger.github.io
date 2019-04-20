@@ -17,7 +17,7 @@ remote_theme: "mmistakes/so-simple-theme"
 
 locale: en-US
 title: "dan forstinger"
-description: "a programmer, designer, and game-lover in Toronto, Canada"
+description: "a programmer, designer, and creator in toronto, canada."
 baseurl: # the subpath of your site, e.g. "/blog"
 url: "https:/danforstinger.github.io"
 logo: "/assets/img/pixel-dan.png"

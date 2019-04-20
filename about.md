@@ -1,6 +1,5 @@
 ---
-layout: home
-limit: 10
-show_excerpts: true
-entries_layout: list
+layout: page
 ---
+
+I make games, sometimes make some music, and I've worked on various other applications professionally. Currently making social games & experiences at Bunch"
