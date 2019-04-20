@@ -69,12 +69,6 @@ search_full_content: false # can have performance implications for large sites
 #   - vendor/gems/
 #   - vendor/ruby/
 
-# Collections
-collections:
-  projects:
-    output: true
-    permalink: /:collection/:path/
-
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
@@ -89,14 +83,6 @@ defaults:
       type: posts
     values:
       layout: post
-      share: true
-  # Recipe defaults
-  - scope:
-      path: "_projects"
-      type: projects
-    values:
-      layout: post
-      comments: true
       share: true
 
 # Site Author
